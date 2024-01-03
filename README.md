@@ -1,64 +1,21 @@
-# Présentation Professionnelle 💼
+# Welcome, Bienvenue sur mon Profil 👋
 
-## [Votre Nom] 👨‍💻
+## À propos de moi 🚀
 
-Bienvenue sur mon profil ! Je suis [votre nom], un professionnel passionné et compétent dans le domaine [votre domaine d'expertise].
+Je suis Marius Mabulu, un passionné de [Votre Domaine d'Expertise] basé à [Votre Lieu]. Actuellement, je travaille comme [Votre Poste Actuel] chez [Votre Entreprise].
 
-## Compétences 🚀
+## Projets Notables 🌟
 
-### Langages de Programmation
-- Python 🐍
-- JavaScript 💻
-- Java ☕
+- [Nom du Projet 1] - [Description]
+- [Nom du Projet 2] - [Description]
 
-### Technologies Web
-- HTML5, CSS3 🎨
-- React.js ⚛️
-- Node.js 🚀
+## Éducation 📚
 
-### Bases de données
-- MySQL 🗃️
-- MongoDB 🍃
-
-### Outils de Développement
-- Git 🔄
-- Visual Studio Code 🧰
-- IntelliJ IDEA 💡
-
-### Compétences Additionnelles
-- Analyse de données 📊
-- Résolution de problèmes ⚙️
-- Collaboration d'équipe 🤝
-- Gestion de projet 📈
-
-## Expérience Professionnelle 💼
-
-### [Nom de l'Entreprise] - [Période]
-Description de vos responsabilités et réalisations.
-
-### [Nom de l'Entreprise] - [Période]
-Description de vos responsabilités et réalisations.
-
-## Projets Notables 🌐
-
-### [Nom du Projet] - [Date]
-Description du projet et de votre rôle.
-
-### [Nom du Projet] - [Date]
-Description du projet et de votre rôle.
-
-## Formation 🎓
-
-### [Diplôme Obtenu] - [Nom de l'Établissement] - [Année]
-
-## Certifications 🏆
-
-- [Nom de la Certification] - [Organisme délivrant la certification]
+- [Diplôme Obtenu] en [Domaine d'Études] - [Nom de l'Établissement] - [Année]
 
 ## Contact 📬
 
-- Email : [Votre adresse e-mail]
-- LinkedIn : [Votre profil LinkedIn]
-- Portfolio : [Lien vers votre portfolio en ligne]
+- Email : Marius.mabulu@etu.u-pec.fr
+- LinkedIn : https://www.linkedin.com/in/marius-mabulu-705421283/
 
-N'hésitez pas à me contacter pour toute opportunité de collaboration ou de discussion sur mes compétences et expériences. Merci de visiter mon profil ! 🙌
+N'hésitez pas à me contacter pour toute opportunité de collaboration ou simplement pour discuter de [Sujet d'Intérêt]. Merci d'avoir visité mon profil ! 🙏
